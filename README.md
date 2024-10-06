@@ -17,7 +17,7 @@ The **Library Management System** is a simple command-line application built in 
 
 ## How to Run
 1. Clone this repository:  
-   `git clone https://github.com/yourusername/library-management-system.git`
+   `git clone https://github.com/Jaymore0008/Library_Management_System.git`
 2. Compile the code using a C++ compiler:
    ```bash
    g++ library_management_system.cpp -o library_system
